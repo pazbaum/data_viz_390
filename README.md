@@ -1,7 +1,3 @@
-# Here's my homepage for Political Science 390.
+# Political Science 390: Political Data Visualizations
 
-Here I will add more information about who I am and my goals for the class.
-
-I can also put things in *italics* or make it **bold**.
-
-That's all!
+Welcome to my Political Science 390: Political Data Visualizations blog. Here, I will add blog posts throughout the quarter, including visualizations.

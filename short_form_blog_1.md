@@ -1,1 +1,1 @@
-# Short Form Blog 1
+# Visualization Blog 1

@@ -7,8 +7,8 @@ My name is Paz Baum, and I am a sophomore at Northwestern studying Political Sci
 Outside of class, I enjoy reporting for WNUR News and helping to run NU's Model UN conference.
 
 **Table of Contents** <br>
-[Visualization Blog 1](short_form_blog_1.md) <br>
-[Short Form Blog 1](https://github.com/pazbaum/data_viz_390/tree/Short-Form-Blog-1) <br>
-[Visualization Blog 2](https://github.com/pazbaum/data_viz_390/tree/Visualization-Blog-2) <br>
-[Short Form Blog 2](https://github.com/pazbaum/data_viz_390/tree/Short-Form-Blog-2) <br>
-[Visualization Blog 3](https://github.com/pazbaum/data_viz_390/tree/Visualization-Blog-3)
+[Visualization Blog 1](visualization_blog_1.md) <br>
+[Short Form Blog 1](short_form_blog_1.md) <br>
+[Visualization Blog 2](visualization_blog_2.md) <br>
+[Short Form Blog 2](short_form_blog_2.md) <br>
+[Visualization Blog 3](visualization_blog_3.md)

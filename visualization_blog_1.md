@@ -1,6 +1,6 @@
 # Visualization Blog 1: Controversial Topics
 
-## Part 1: A Good Visualization
+## Part 1: A Visualization I Like
 
 <img src="https://github.com/pazbaum/data_viz_390/blob/main/vb1_pew_mask_viz.png" width = 50% height = 50%>
 
@@ -34,3 +34,7 @@ df %>%
        title = 'Percentage of Americans who believe masks should be required on airports and public transportation')
 ```
 <img src = 'https://github.com/pazbaum/data_viz_390/blob/main/vb1_recreation.png' width = 70% height = 70%>
+
+## Part 2: A Visualization I Dislike
+
+## Part 3: My Own Visualization

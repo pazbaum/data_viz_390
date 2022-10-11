@@ -30,4 +30,4 @@ df %>%
        y = "Percentage",
        title = 'Percentage of Americans who believe masks should be required on airports and public transportation')
 ```
-<img src = 'https://github.com/pazbaum/data_viz_390/blob/main/vd1_recreation.png' width = 70% height = 70%>
+<img src = 'https://github.com/pazbaum/data_viz_390/blob/main/vb1_recreation.png' width = 70% height = 70%>

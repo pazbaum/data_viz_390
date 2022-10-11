@@ -37,4 +37,10 @@ df %>%
 
 ## Part 2: A Visualization I Dislike
 
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/2020_electoral_map.png" width = 50% height = 50%>
+
+Source: https://brilliantmaps.com/2020-county-election-map/
+
+This is a visualization of the 2020 presidential election results. While election results may not seem like a contentious topic, the 2020 presidential results certainly were. The map displayed above portrays election results by county, which is accurate, but it gives the false impression that the Republican candidate won more votes than the Democratic candidate. This is because the map is colored by county election results instead of population election results. A more accurate way to display the 2020 presidential election results would be to create a map with states artificially larger or smaller based on their population. This way, the map would communicate that more people voted for the Democratic candidate than the Republican candidate, leading a Democratic victory.
+
 ## Part 3: My Own Visualization

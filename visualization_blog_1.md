@@ -1,6 +1,6 @@
 # Visualization Blog 1: Controversial Topics
 
-**Part 1: A Good Visualization**
+## Part 1: A Good Visualization
 
 <img src="https://github.com/pazbaum/data_viz_390/blob/main/vb1_pew_mask_viz.png" width = 50% height = 50%>
 

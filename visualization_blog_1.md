@@ -1,9 +1,10 @@
 # Visualization Blog 1: Controversial Topics
+
 **Part 1: A Good Visualization**
 
 <img src="https://github.com/pazbaum/data_viz_390/blob/main/vb1_pew_mask_viz.png" width = 40% height = 40%>
 
-This visualiztion from the Pew Research Center is a clear representation of Americans' opinions as of May 2022 on whether or not masks should be required in indoor, public areas. It 
+This visualiztion from the Pew Research Center is a clear representation of Americans' opinions as of May 2022 on whether or not masks should be required in indoor, public spaces. One reason why the visualization is transparent is because it provides the question asked to the respondents. Therefore, we know that the results are a true representation of respondents' opinions; their answers were not misconstrued. The visualization is also clear and honest because it provides the date that the survey was conducted. Opinions about Covid protocol, including mask requirements, have changed often and rapidly since the pandemic began, so the timing of a poll about Covid is vital context to the results of that poll. The visualization itself is useful because it separates results into two distinct categories ("masks should be required" and "masks should not be required") and breaks the results down based on demographic information that, according to researchers, impact people's perceptions of and reactions to Covid.
 
 This code produces a similar graphic, as shown below:
 ```

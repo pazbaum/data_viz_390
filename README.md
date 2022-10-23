@@ -4,7 +4,7 @@ Welcome to my Political Science 390: Political Data Visualizations blog. Here, I
 
 My name is Paz Baum, and I am a sophomore at Northwestern studying Political Science with minors in Data Science and Gender and Sexuality Studies. Through this Political Data Visualizations seminar, I hope to learn the skills necessary to apply a data science framework to my work in political science and gender and sexuality studies.
 
-Outside of class, I enjoy reporting for WNUR News and helping to run NU's Model UN conference.
+Outside of class, I enjoy reporting for WNUR News, helping to run NU's Model UN conference, and enabling students to vote through NU Votes.
 
 **Table of Contents** <br>
 [Visualization Blog 1](visualization_blog_1.md) <br>

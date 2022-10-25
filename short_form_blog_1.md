@@ -30,7 +30,7 @@ Voting laws vary greatly by state, but there are some regional consistencies. No
 
 One limitation of the plot below is that it does not specify if students are voting in their home or their school state or if they are voting in-person or absentee. It is therefore difficult to ascertain in what ways state governments may have prevented students from voting.
 
-<img src="" width = 75% height = 75%>
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/sb1_voters_by_region.png" width = 100% height = 100%>
 
 Voting remains inaccessible to many people throughout young adulthood, but it becomes more accessible as a person ages. Older people tend to have more money and access to transportation compared to younger people, which makes getting to the polls as well as travelling to pick up mailing supplies easier. This trend holds true even within small age ranges, like 18 to 22 year olds in college. For example, many universities allow upperclassmen to have cars on campus but not underclassmen.
 
@@ -54,7 +54,7 @@ Another possible explanation for the high percentage of democratic student voter
 
 Beyond the small sample size of students this plot is based on, another limitation is that it does not account for third party voters. The few third party student voters in this sample were removed from the data used to create the plot for ease of calculations.
 
-[dem_pres voters by year]
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/sb1_dem_vote.png" width = 75% height = 75%>
 
 The data and visualizations above demonstrate that students in the Northeast and Midwest, older students, female students, and democratic students tend to vote at higher rates than their counterparts. If I could collect more data on the topic, I would conduct a regression analysis to determine the most important motivators for student voters.
 

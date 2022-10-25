@@ -30,7 +30,7 @@ Voting laws vary greatly by state, but there are some regional consistencies. No
 
 One limitation of the plot below is that it does not specify if students are voting in their home or their school state or if they are voting in-person or absentee. It is therefore difficult to ascertain in what ways state governments may have prevented students from voting.
 
-<img src="" width = 50% height = 50%>
+<img src="" width = 75% height = 75%>
 
 Voting remains inaccessible to many people throughout young adulthood, but it becomes more accessible as a person ages. Older people tend to have more money and access to transportation compared to younger people, which makes getting to the polls as well as travelling to pick up mailing supplies easier. This trend holds true even within small age ranges, like 18 to 22 year olds in college. For example, many universities allow upperclassmen to have cars on campus but not underclassmen.
 

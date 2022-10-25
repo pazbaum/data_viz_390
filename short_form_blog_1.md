@@ -40,13 +40,13 @@ When broken down by election year, the data show that while in 2016, more older 
 
 A limitation of this boxplot is that it shows the number, not percentage, of students of each age. It is therefore slightly skewed toward students ages 19 to 21 since those are the most common ages of college students.
 
-[voted_age_boxplots plot]
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/sb1_voted_age_boxplots.png" width = 100% height = 100%>
 
 With the plots below, we can take a closer look at exactly how many students voted in 2016 compared to 2020. Over 20% more college students voted in the latter election, and there was a larger increase in female student voter turnout than male student voter turnout. More research is needed in order to determine what caused the higher college student turnout in 2020 compared to 2016. It is possible, though, that a combination of college students being in their home states during the 2020 election and the public’s strong feelings toward Trump led to this increase in turnout.
 
 The gender difference in turnout is important because it indicates that there may be different motivating factors for male and female students to vote. It is unclear why turnout increased more for female students than male students from 2016 to 2020, but one possibility is that female students had a stronger oppositional reaction to Trump’s presidency compared to their male counterparts.
 
-[voted_by_year + voted_by_year_by_gender]
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/sb1_voted_by_year.png" width = 100% height = 100%>
 
 The high turnout from college students in 2020 led to victory for the Democrats. As shown below, 90% of student voters voted for Biden in 2020, an increase of 14% from the votes Hillary Clinton got from college students in 2016. This is one reason why I believe it is possible that Trump, who ran in both elections, was a motivating force behind an increase in student turnout.
 

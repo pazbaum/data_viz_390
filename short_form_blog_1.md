@@ -61,3 +61,63 @@ The data and visualizations above demonstrate that students in the Northeast and
 Given the opportunity, I would also look into how students vote–absentee ballot or in-person, in their home state or their school state, and registered on their own or through an organization. Access to this data would enable voter advocacy groups to tailor their programming to students’ habits and desires.
 
 ### Bibliography
+
+American National Election Studies. *ANES History.* https://electionstudies.org/about-us/history/ 
+
+American National Election Studies. (2022). *ANES Time Series Cumulative Data File.* September 16, 2022 version. www.electionstudies.org
+
+American National Election Studies. (2019, Sept. 4). *User’s Guide and Codebook for the ANES 2016 Time Series Study.* https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf 
+
+American National Election Studies. (2022, Feb. 10). *User’s Guide and Codebook for the ANES 2020 Time Series Study.* https://electionstudies.org/wp-content/uploads/2022/02/anes_timeseries_2020_userguidecodebook_20220210.pdf 
+
+Arnold J (2021). _ggthemes: Extra
+  Themes, Scales and Geoms for 'ggplot2'_.
+  R package version 4.2.4,
+  <https://CRAN.R-project.org/package=ggthemes>.
+
+Hagen, F., & Milligan, S. (2021, April 9). *How Voting Laws Suppress the ‘New South’.* U.S. News and World Report. https://www.usnews.com/news/the-report/articles/2021-04-09/how-voting-laws-suppress-the-new-south 
+
+Hvitfeldt E. (2021). paletteer:
+  Comprehensive Collection of Color
+  Palettes. version 1.3.0.
+  https://github.com/EmilHvitfeldt/paletteer
+
+National Conference of State Legislatures. (2022, July 12). *Table 6: States With Online Absentee Ballot Application Portals.* https://www.ncsl.org/research/elections-and-campaigns/vopp-table-6-states-with-web-based-and-online-absentee-ballot-applications.aspx 
+
+National Conference of State Legislatures. (2022, March 15). *Table 14: How States Verify Voted Absentee/Mail Ballots.* https://www.ncsl.org/research/elections-and-campaigns/vopp-table-14-how-states-verify-voted-absentee.aspx 
+
+Pedersen T (2022). _patchwork: The
+  Composer of Plots_. R package version
+  1.1.2,
+  <https://CRAN.R-project.org/package=patchwork>.
+
+Rossell Hayes, Alexander (2022).
+  fauxnaif: Convert Values to NA.
+  https://fauxnaif.rossellhayes.com
+
+Statista Research Department. (2022, Sept. 30). *Youth voter turnout in presidential elections in the United States from 1972 to 2020.* https://www.statista.com/statistics/984745/youth-voter-turnout-presidential-elections-us/ 
+
+Trageser, C. (2020, April 1). *6 Youth-Led Political Movements to Inspire You to Vote.* Common Sense Media. https://www.commonsensemedia.org/articles/6-youth-led-political-movements-to-inspire-you-to-vote 
+
+Wickham H, Averick M, Bryan J, Chang W, McGowan LD, François R,
+  Grolemund G, Hayes A, Henry L, Hester J, Kuhn M, Pedersen TL, Miller E,
+  Bache SM, Müller K, Ooms J, Robinson D, Seidel DP, Spinu V, Takahashi K,
+  Vaughan D, Wilke C, Woo K, Yutani H (2019). “Welcome to the tidyverse.”
+  _Journal of Open Source Software_, *4*(43), 1686.
+  doi:10.21105/joss.01686 <https://doi.org/10.21105/joss.01686>.
+
+Wickham H, François R, Henry L, Müller K
+  (2022). _dplyr: A Grammar of Data
+  Manipulation_. R package version 1.0.10,
+  <https://CRAN.R-project.org/package=dplyr>.
+
+Wickham H, Miller E, Smith D (2022).
+  _haven: Import and Export 'SPSS',
+  'Stata' and 'SAS' Files_. R package
+  version 2.5.1,
+  <https://CRAN.R-project.org/package=haven>.
+
+Wickham H, Seidel D (2022). _scales:
+  Scale Functions for Visualization_. R
+  package version 1.2.1,
+  <https://CRAN.R-project.org/package=scales>.

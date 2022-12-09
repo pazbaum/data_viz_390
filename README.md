@@ -12,3 +12,5 @@ Outside of class, I enjoy reporting for WNUR News, helping to run NU's Model UN 
 [Visualization Blog 2: Improving Two Visualizations](visualization_blog_2.md) <br>
 [Short Form Blog 2: Urbanization and Suffrage](short_form_blog_2.md) <br>
 [Visualization Blog 3: Final Project Proposal](visualization_blog_3.md)
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchenginejournal.com%2Fdata-visualizations%2F349286%2F&psig=AOvVaw0BC-SlPkh92JN_n1yF2eSe&ust=1670636647577000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDA79O06_sCFQAAAAAdAAAAABAI)

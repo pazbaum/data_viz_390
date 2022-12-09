@@ -1,4 +1,4 @@
-# Short Form Blog 2: Urbanization and Women's Suffrage
+# Short Form Blog 2: Urbanization and Suffrage
 
 Cities played a vital role in enabling women to gain the right to vote in the U.S. in the early 20th century. When masses of people began moving to cities in the 19th century, Americans were in closer proximity to one another than ever before. It became easier for activist groups to communicate, meet, and organize.[<sup>1</sup>](https://www.jstor.org/stable/4634459?seq=1#metadata_info_tab_contents) I was curious if, like the American women’s suffrage movement, urbanization was correlated with expanded suffrage in different parts of the world at different times in history. I evaluate the relationship between the urbanization of countries and the percentage of adults with the right to vote in those countries using data from the V-Dem dataset.
 

@@ -2,7 +2,7 @@
 
 ## Part 1: A Visualization I Like
 
-<img src="https://github.com/pazbaum/data_viz_390/blob/main/vb1_pew_mask_viz.png" width = 50% height = 50%>
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/vb1_pew_mask_viz.png" width = 55% height = 55%>
 
 Source: https://www.pewresearch.org/fact-tank/2022/05/11/57-of-americans-say-masks-should-be-required-on-airplanes-and-public-transportation/
 
@@ -33,11 +33,11 @@ df %>%
        y = "Percentage",
        title = 'Percentage of Americans who believe masks should be required on airports and public transportation')
 ```
-<img src = 'https://github.com/pazbaum/data_viz_390/blob/main/vb1_recreation.png' width = 70% height = 70%>
+<img src = 'https://github.com/pazbaum/data_viz_390/blob/main/vb1_recreation.png'>
 
 ## Part 2: A Visualization I Dislike
 
-<img src="https://github.com/pazbaum/data_viz_390/blob/main/2020_electoral_map.png" width = 50% height = 50%>
+<img src="https://github.com/pazbaum/data_viz_390/blob/main/2020_electoral_map.png" width = 70% height = 70%>
 
 Source: https://brilliantmaps.com/2020-county-election-map/
 
@@ -45,7 +45,7 @@ This is a visualization of the 2020 presidential election results. While electio
 
 ## Part 3: My Own Visualization
 
-<img src='https://github.com/pazbaum/data_viz_390/blob/main/vd1_q3.png' width = 50% height = 50%>
+<img src='https://github.com/pazbaum/data_viz_390/blob/main/vd1_q3.png' width = 90% height = 90%>
 
 Data source: https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-06-28
 

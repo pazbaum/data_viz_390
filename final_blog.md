@@ -19,13 +19,13 @@ In the 2021-22 school year, American schools banned 1,648 unique books. Bans wer
 
 Many of these bans were concentrated in a few states across the country. Because school book bans are put in place as a result of local culture and politics, bans often reflect the culture and politics of people in power in a given state.
 
-![*plot 1: map of bans*]()
+![A map of the U.S. with state lines titled "Number of Book Bans". Each state is filled in based on how many book bans occured in that state.](fp_bans_map.png)
 
 Almost half of the over 1,600 book bans in the 2021-22 school year were in Texas. Florida, Pennsylvania, and Tennessee follow with about 500, 400, and 300 bans respectively. These states have some of the most socially conservative politicians and groups in the country. For example, Moms for Liberty, the largest organization dedicated to removing books from schools and libraries, is based in Florida.[<sup>8</sup>](https://www.tcpalm.com/story/news/2021/12/08/moms-liberty-florida-chapters-members-details/6355142001/)
 
 One common thread among all the states with bans in place is the topics of the banned books.
 
-![*plot 2: word cloud*]()
+![A word cloud titled "The Most Common Words in the Titles of Banned Books.](fp_titles_word_cloud.png)
 
 The two most common words among the titles of banned books are “boys” and “girl”. This indicates a condemnation of books that address topics of gender. Other common words among titles include “queer”, “family”, “black”, and “white”. Together, these words demonstrate a focus on gender and race in the fight to remove books from schools.
 
@@ -37,7 +37,7 @@ The six books banned the most in American schools during the 2021-22 school year
 
 The books above are those most commonly banned across the country, but there is some variance by region. As shown in the map, schools in the South ban more books than any other region, consistent with a historical trend of conservatism.
 
-![*plot 7: bar plot of bans by region w/ top titles*]()
+![A bar plot titled "Book Bans by Region". The South has the highest number of bans. The titles of the most banned books in each region are listed. The top book in all four regions is "Gender Queer: A Memoir".](fp_region_bans.png)
 
 Note: The number of book titles printed per region is inconsistent because multiple titles were tied for having the next highest number of bans in each region.
 
@@ -45,17 +45,17 @@ The top book banned in all regions, *Gender Queer: A Memoir* focuses primarily o
 
 As seen with Gender Queer: A Memoir, many states banned the same books as one another. In fact, as soon as a district in one state banned a given book, districts in other states quickly followed. Below are the timelines of the bans of the top three banned books in the 2021-22 school year.
 
-![*plot 3: histogram*]()
+![A histogram with three facets titled "Each month, more states ban the same controversial books" with "months" on the x-axis and "number of states" on the y-axis. Each facet is for one of three most-commonly-banned books. As time goes on, districts in a higher number of states ban each book.](fp_title_time_hist.png)
 
 There was a sudden increase in the number of states banning *Gender Queer: A Memoir*, *All Boys Aren’t Blue*, and *Out of Darkness* in September, most likely due to the start of the school year. After September, though, many additional districts in multiple unique states banned the books each month. This demonstrates the national network of groups fighting to remove certain books, mainly ones about LGBTQ+ themes and race, from schools.
 
 The national trends shown above bring up the question of the origin of individual book bans, as some come from a formal, written challenge while others come from an individual, such as a school administrator, removing a book due to political and/or parental pressure. Local boards of education are primarily responsible for deciding what books to include and exclude from schools, but lobbyists and politicians can greatly influence these decisions.[<sup>9</sup>](https://www.findlaw.com/education/student-rights/banning-books-and-the-law.html#:~:text=Local%20boards%20of%20education%20are,to%20place%20in%20a%20library)
 
-![*plot 5: map of origins*]()
+![A map of the U.S. with state lines titled "Origin of Challenges to Books". Each state is filled in based on whether the majority of book bans in that state came from an administrator or from a formal challenge.](fp_origins_map.png)
 
 In most states with banned books, the majority of bans came from an administrator banning the book based on political and/or parental pressure. In the Northeast, though, in which states had fewer bans compared to the rest of the country, the majority of bans came from formal, written challenges. One potential explanation is that all initial bans come from formal challenges, so during the 2022-23 school year districts in the Northeast can expect to have more administrator-based challenges. However, as shown below, there was not a major increase in the percentage of administrator-based challenges in the South over the course of the 2021-22 school year, so there is little evidence that there will be an increase in the Northeast.
 
-![*plot 8: histogram of admin challenges in the South over time*]()
+![A histogram titled "Administrator-based challenges in the South" with "month" on the x-axis and "% of Banned Books Challenged by an Administrator" on the y-axis.](fp_admin_origin_south.png)
 
 Another potential explanation for the region-based differences of the origin of challenges is a difference in social values. Banned books is a major political issue in Southern states, but not so much in Northeastern states. As a result, it takes up less time in everyday social discussions in the Northeast and there may be less political and parental pressure on administrators in Northeastern schools to remove certain books from the libraries and classrooms. This too, though, is subject to change in the future as book banning becomes a more prominent practice and therefore political topic.
 
@@ -63,3 +63,4 @@ Another potential explanation for the region-based differences of the origin of 
 Given the thousands of books banned during the 2021-22 school year and the continued focus on banning additional books, it is essential to maintain awareness of the bans. By studying which books are being banned, how they are banned, and where they are taken from–in which states and from schools and/or libraries–advocates for free speech and representation for children can organize the fight against book bans. They can use data such as the theme, location, and origin of the majority of book bans to decide where to allocate their resources.
 
 ### Works Cited
+<embed src = "PS390_Final_Proj_Bibliography.pdf" type = "application/pdf">

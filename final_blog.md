@@ -31,7 +31,7 @@ The two most common words among the titles of banned books are “boys” and �
 
 There were several books that were banned many times in different school districts within the same states and in different states across the country.
 
-![*plot 6: canva graphic*]()
+![A graphic with the book covers of the six most commonly banned books in America.](fp_canva_titles.png)
 
 The six books banned the most in American schools during the 2021-22 school year were *Gender Queer: A Memoir*, *All Boys Aren’t Blue*, *Out of Darkness*, *The Bluest Eye*, *Lawn Boy*, and *The Hate U Give*. All but Toni Morrison’s *The Bluest Eye* were published within the past ten years, indicating that proponents of book bans are focused on both new and old literature. These six books all feature an LGBTQ+ protagonist and/or a protagonist of color.
 

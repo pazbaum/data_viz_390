@@ -1,4 +1,4 @@
-# Political Science 390: Political Data Visualizations
+# Political Science 390: Political Data Visualization
 
 Welcome to my Political Science 390: Political Data Visualizations blog. Here, I will add blog posts throughout the quarter that document my progression in the course. Blog posts will mostly be visualizations, both made by myself and by others, alongside explanations and analyses.
 

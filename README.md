@@ -7,10 +7,10 @@ My name is Paz Baum, and I am a sophomore at Northwestern studying Political Sci
 Outside of class, I enjoy reporting for WNUR News, helping to run NU's Model UN conference, and enabling students to vote through NU Votes.
 
 **Table of Contents** <br>
-[Visualization Blog 1: Controversial Topics](visualization_blog_1.md) <br>
-[Short Form Blog 1: What drives college students to vote?](short_form_blog_1.md) <br>
-[Visualization Blog 2: Improving Two Visualizations](visualization_blog_2.md) <br>
-[Short Form Blog 2: Urbanization and Suffrage](short_form_blog_2.md) <br>
-[Visualization Blog 3: Final Project Proposal](visualization_blog_3.md)
+[**Visualization Blog 1:** Controversial Topics](visualization_blog_1.md) <br>
+[**Short Form Blog 1:** What drives college students to vote?](short_form_blog_1.md) <br>
+[**Visualization Blog 2:** Improving Two Visualizations](visualization_blog_2.md) <br>
+[**Short Form Blog 2:** Urbanization and Suffrage](short_form_blog_2.md) <br>
+[**Visualization Blog 3:** Final Project Proposal](visualization_blog_3.md)
 
 ![](https://github.com/pazbaum/data_viz_390/blob/main/cover_photo.png)

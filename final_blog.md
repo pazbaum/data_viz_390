@@ -63,4 +63,4 @@ Another potential explanation for the region-based differences of the origin of 
 Given the thousands of books banned during the 2021-22 school year and the continued focus on banning additional books, it is essential to maintain awareness of the bans. By studying which books are being banned, how they are banned, and where they are taken from–in which states and from schools and/or libraries–advocates for free speech and representation for children can organize the fight against book bans. They can use data such as the theme, location, and origin of the majority of book bans to decide where to allocate their resources.
 
 ### Works Cited
-[Bibliography for R projects used](https://drive.google.com/file/d/1gnLv5em7xDn9GChnd3dtntDW8-ftfId7/view?usp=sharing)
+[Bibliography for R projects](https://drive.google.com/file/d/1gnLv5em7xDn9GChnd3dtntDW8-ftfId7/view?usp=sharing)
